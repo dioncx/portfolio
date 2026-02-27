@@ -9,7 +9,7 @@
 
 ## About Me
 
-Saya adalah Full-Stack Developer berbasis di West Jakarta dengan pengalaman dalam pengembangan sistem perbankan (fintech/BPR), mobile PWA, REST API, dan integrasi AI/ML. Saat ini bekerja sebagai Project Lead di LOXA Digital.
+Full-Stack Developer berbasis di West Jakarta dengan pengalaman dalam pengembangan sistem perbankan (fintech/BPR), mobile PWA, REST API, AI/ML integration, dan game development. Saat ini bekerja sebagai Project Lead di LOXA Digital.
 
 **Tech Stack:** PHP · Laravel · CodeIgniter · Vue 3 · Go · Python · PostgreSQL · MySQL · Redis · Docker · REST API · Microservices
 
@@ -69,7 +69,38 @@ Saya adalah Full-Stack Developer berbasis di West Jakarta dengan pengalaman dala
 
 ## Personal Projects
 
-### 6. Stock Monitor
+### 6. Predator Chronicle — AI-Powered RPG Game Engine
+**Repo:** Private (GitHub) | **Status:** Active (70+ commits/month)
+
+- Full-stack RPG game engine dengan sistem AI agent terintegrasi
+- Fitur: Dream Tutorial System, Mythic Identity System, achievement & tier system, dynamic rule engine
+- Multi-agent architecture dengan skill system (qmd agent skill)
+- Backend Python + frontend JS dengan cache busting dan conflict resolution
+- **Stack:** Python · JavaScript · HTML/CSS · AI Agent Framework
+
+---
+
+### 7. Crypto Prediction — ML-Based Crypto Trading Bot
+**Repo:** Private (GitHub) | **Status:** Active
+
+- Aplikasi prediksi harga crypto menggunakan machine learning
+- Model training & backtest dengan data historis (XRP/USDT dan pasangan lainnya)
+- Verification system untuk validasi akurasi model
+- Multi-agent support via AGENTS.md
+- **Stack:** Python · pandas · scikit-learn · JavaScript · REST API
+
+---
+
+### 8. IP-to-IP Transaction Simulator
+**Repo:** Private (GitHub) | **Status:** Maintained
+
+- Simulasi alur transaksi IP-to-IP berbasis PHP (konseptual)
+- Mensimulasikan workflow dan UI interaksi transaksi antar perangkat
+- **Stack:** PHP · JavaScript · HTML/CSS
+
+---
+
+### 9. Stock Monitor
 **Repo:** Private (GitLab) | **Status:** Active
 
 - Aplikasi monitoring portofolio saham personal secara real-time
@@ -79,7 +110,7 @@ Saya adalah Full-Stack Developer berbasis di West Jakarta dengan pengalaman dala
 
 ---
 
-### 7. AI Trade Bot (Qwen)
+### 10. AI Trade Bot (Qwen)
 **Repo:** Private (GitLab) | **Status:** Active
 
 - Trading bot berbasis AI menggunakan model Qwen (LLM)
@@ -89,16 +120,16 @@ Saya adalah Full-Stack Developer berbasis di West Jakarta dengan pengalaman dala
 
 ---
 
-### 8. Trade Bot
+### 11. Trade Bot
 **Repo:** Private (GitLab) | **Status:** Active
 
-- Versi awal trading bot dengan strategi teknikal klasik
+- Trading bot dengan strategi teknikal klasik
 - Indikator: MA, RSI, MACD untuk sinyal trading otomatis
 - **Stack:** Python · PostgreSQL · REST API
 
 ---
 
-### 9. School System
+### 12. School System
 **Repo:** Private (GitLab) | **Status:** Maintained
 
 - Sistem manajemen sekolah: data siswa, nilai, absensi, jadwal
